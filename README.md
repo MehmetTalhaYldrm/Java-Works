@@ -1,4 +1,4 @@
-# Java-Workspace
+# Java-Works
 
 package denemezıbabos;
 import java.util.Scanner;
